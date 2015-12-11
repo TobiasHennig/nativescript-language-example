@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nativescriptlanguageexample</string>
+    <string name="title_activity_kimera">nativescriptlanguageexample</string>
+
+    <string name="hello">Hello!</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">Song</item>
+        <item quantity="other">Songs</item>
+    </plurals>
+</resources>

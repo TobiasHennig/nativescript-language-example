@@ -1,0 +1,19 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.nativescriptlanguageexample",
+    "tns-android": {
+      "version": "1.5.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-language": "^0.1.0",
+    "nativescript-unit-test-runner": "^0.2.8",
+    "tns-core-modules": "1.5.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.15",
+    "karma-jasmine": "^0.3.6",
+    "karma-nativescript-launcher": "^0.3.1"
+  }
+}
